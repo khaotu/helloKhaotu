@@ -1,0 +1,10 @@
+{
+  "name": "khaotu",
+  "version": "0.1.0",
+  "description": "hello khaotu",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "test-khaotu": "./index.js"
+  }
+}
